@@ -1,1 +1,1 @@
-https://gankerlookout.com/
+.https://gankerlookout.com/

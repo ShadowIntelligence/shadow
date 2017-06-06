@@ -1,4 +1,4 @@
-#include "zkill.h"
+.#include "zkill.h"
 
 void zkill_init()
 {
